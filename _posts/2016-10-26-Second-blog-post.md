@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No Jesus in the data
+title: Second blog post
 ---
 
 What can be wrtitten here. 
